@@ -2,9 +2,9 @@
 
 This is the featurization step for the project "Inferring Music And Visual Art Style Evolution via Computational Intelligence" (1).
 
-1. https://github.com/erikagardini/InferringMusicAndVisualArtStyleEvolution/edit/master/README.md
-
 Here we extracted the features from the penultimate layer of the network implemented by the authors Adrian Lecoutre, Benjamin Negrevergne and Florian Yger (2)(3), without performing any retraining procedures.
+
+1. https://github.com/erikagardini/InferringMusicAndVisualArtStyleEvolution/edit/master/README.md
 
 2. Adrian Lecoutre, Benjamin Negrevergne and Florian Yger (2017). Recognizing Art Style Automatically in painting with deep learning. _JMLR: Workshop and Conference Proceedings_ __(80)__ 1–17.
 
