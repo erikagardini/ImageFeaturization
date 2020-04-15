@@ -1,0 +1,3 @@
+After the testing step, this folder will contain the results together with the _img_dataset_testing.csv_ file.
+
+After the formatting step this folder will contain the _img_dataset.csv_ file.
