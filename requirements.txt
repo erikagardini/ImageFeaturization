@@ -1,0 +1,8 @@
+keras
+tensorflow
+numpy
+os
+progressbar
+datetime
+csv
+pandas
