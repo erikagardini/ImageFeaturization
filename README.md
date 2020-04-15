@@ -35,7 +35,7 @@ tar xzvf wikipaintings_full.tgz
 cd ../
 ```
 
-## Downloads the rasta models from github
+## Downloads the rasta models
 
 ```
 cd models
