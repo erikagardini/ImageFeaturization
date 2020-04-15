@@ -10,18 +10,18 @@ Here we extracted the features from the penultimate layer of the network impleme
 
 3. https://github.com/bnegreve/rasta
 
-## Downloads files
-
-```
-git clone https://github.com/erikagardini/ImageFeaturization.git
-```
-
 ## Install python requirements
 
 You can install python requirements with
 
 ```
 pip3 install -r requirements.txt
+```
+
+## Downloads files
+
+```
+git clone https://github.com/erikagardini/ImageFeaturization.git
 ```
 
 ## Downloads the Wikipainting dataset
