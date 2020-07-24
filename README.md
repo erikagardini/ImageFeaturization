@@ -1,10 +1,10 @@
 # Image Featurization
 
-This is the featurization step for the project "Inferring Music And Visual Art Style Evolution via Computational Intelligence" (1).
+This is the featurization step for the project "Walking through the Music and Visual Art StyleSpace via Computational Intelligence" (1).
 
 Here we extracted the features from the penultimate layer of the network implemented by the authors Adrian Lecoutre, Benjamin Negrevergne and Florian Yger (2)(3), without performing any retraining procedures.
 
-1. https://github.com/erikagardini/InferringMusicAndVisualArtStyleEvolution/edit/master/README.md
+1. https://github.com/erikagardini/Walking-through-the-Music-and-Visual-Art-StyleSpace-via-Computational-Intelligence
 
 2. Adrian Lecoutre, Benjamin Negrevergne and Florian Yger (2017). Recognizing Art Style Automatically in painting with deep learning. _JMLR: Workshop and Conference Proceedings_ __(80)__ 1–17.
 
@@ -63,4 +63,4 @@ When the testing is completed, the file _img_dataset_testing.csv_ is saved insid
 python3 2_format_dataset.py
 ```
 
-Here, the dataset _img_dataset_testing.csv_ is correctly formatted. The output is the dataset _img_dataset.csv_, which is used for the experiment "Inferring Music And Visual Art Style Evolution via Computational Intelligence" (1).
+Here, the dataset _img_dataset_testing.csv_ is correctly formatted. The output is the dataset _img_dataset.csv_, which is used for the experiment "Walking through the Music and Visual Art StyleSpace via Computational Intelligence" (1).
